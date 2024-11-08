@@ -1,0 +1,9 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+  api:
+    version: 1.0.0
+jwt:
+  signer-key: v5IjSYvsOmQ7n7lpgUmaVXHmaE57wagF6aPJicyY17UPW7IwyYisMX5HIc2VIgeGz78NrRbhzdohcO2A7ckPug
