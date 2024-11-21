@@ -51,3 +51,8 @@ CLOUDINARY_NAME={YOUR_CLOUDINARY_NAME}
 CLOUDINARY_API_KEY={YOUR_CLOUDINARY_API_KEY}
 CLOUDINARY_API_SECRET={YOUR_CLOUDINARY_API_SECRET}
 ```
+
+<h3>Swagger Url</h3>
+
+Prerequisites necessary for running project.
+- http://localhost:{YourPort}/swagger-ui/index.html
