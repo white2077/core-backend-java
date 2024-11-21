@@ -53,4 +53,7 @@ CLOUDINARY_API_SECRET={YOUR_CLOUDINARY_API_SECRET}
 ```
 
 <h3>Swagger Url</h3>
-- http://localhost:{YourPort}/swagger-ui/index.html
+
+```yaml
+http://localhost:{YourPort}/swagger-ui/index.html
+```
